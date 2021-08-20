@@ -1,0 +1,14 @@
+local_settings.py
+local.py
+*/media/
+**/migrations/
+*/staticfiles/
+**/images/
+*.pyc
+
+# Environments
+.env
+.venv
+env/
+venv/
+
